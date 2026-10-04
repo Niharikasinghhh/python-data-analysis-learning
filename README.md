@@ -40,3 +40,7 @@ This repository contains my hands-on learning and practice with Python libraries
 - NumPy
 - Pandas
 - Matplotlib
+
+
+Purpose
+This repository documents my learning journey while building a strong foundation in Python-based data analysis. The notebooks contain explanations, examples, practice code, and exercises that I completed while learning these libraries.
